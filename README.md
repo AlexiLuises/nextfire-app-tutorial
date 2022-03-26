@@ -1,3 +1,5 @@
+This is a project I am using to learn nextjs and firebase to gain more experience on how backend works.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
